@@ -1,0 +1,22 @@
+{
+  "name": "alpha-express",
+  "version": "1.0.0",
+  "description": "a basic application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Mohd Arbaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
